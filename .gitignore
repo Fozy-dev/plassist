@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.lock
+
+logs/
+bot_data/
+
+bot_settings/config.json
+
+.temp_update/
+.pytest_cache/
+.vscode/
